@@ -28,15 +28,15 @@
 ## 🚀 About Me
 
 ```typescript
-const developer = {
+const aiEngineer = {
     name: "Nguyễn Minh Bảo (Bao Nguyen)",
-    role: "Full-Stack Developer & AI/ML Engineer",
+    role: "AI Engineer & Full-Stack Developer",
     education: "University of Information Technology - VNU-HCM",
-    specialization: ["AI Agents", "NLP", "Full-Stack Development", "Blockchain"],
-    interests: ["LLMs", "Multi-Agent Systems", "FinTech", "Web3"],
+    specialization: ["AI Agents", "NLP", "LLM Applications", "RAG Systems"],
+    interests: ["Multi-Agent Systems", "LangGraph", "Vietnamese NLP", "Web3"],
     currentFocus: "Building production-ready AI agents with LangGraph & RAG",
     languages: ["Vietnamese (Native)", "English (Professional)"],
-    motto: "Code with purpose, innovate with passion"
+    motto: "Code with purpose, innovate with AI"
 };
 ```
 
@@ -552,7 +552,7 @@ Comprehensive jewelry store management system:
 <td width="33%" align="center">
 
 ### 🤖 AI/ML Engineering
-- Multi-Agent Systems (MAS)
+- Multi-Agent Systems (MAS) & Agent Orchestration
 - LangGraph & LangChain Development
 - RAG (Retrieval-Augmented Generation)
 - Vector Databases & Semantic Search
@@ -560,6 +560,7 @@ Comprehensive jewelry store management system:
 - Vietnamese NLP (PhoBERT)
 - Sentiment Analysis & Text Classification
 - Deep Learning & Neural Networks
+- LLM Integration & Prompt Engineering
 
 </td>
 <td width="33%" align="center">
@@ -591,13 +592,14 @@ Comprehensive jewelry store management system:
 
 ## 🏆 Key Achievements
 
-- 🎓 **Academic Excellence:** Completed multiple complex software engineering projects with distinction
+- 🎓 **Academic Excellence:** Completed multiple complex AI and software engineering projects with distinction
 - 🤖 **AI Innovation:** Built production-ready AI agents with LangGraph, implementing multi-agent systems and RAG architectures
 - 🗣️ **NLP Expertise:** Achieved **98.35% accuracy** in Vietnamese sentiment analysis using PhoBERT and advanced ML techniques
 - ⛓️ **Blockchain Integration:** Successfully integrated Truvera blockchain for verifiable credentials and decentralized identity
-- 🌐 **Full-Stack Mastery:** Delivered end-to-end solutions from database architecture to responsive UIs across multiple tech stacks
-- 🚀 **Cutting-Edge Tech:** Proficient in latest technologies (Next.js 14, Angular 19, FastAPI, LangGraph)
-- 💡 **Real-World Impact:** Built systems serving actual business needs in FinTech, E-commerce, and Travel industries
+- 🌐 **Full-Stack Mastery:** Delivered end-to-end AI-powered solutions from database architecture to responsive UIs
+- 🚀 **Cutting-Edge Tech:** Proficient in latest AI technologies (LangGraph, LangChain, LlamaIndex, RAG, Vector DBs)
+- 💡 **Real-World Impact:** Built AI systems serving actual business needs in FinTech, E-commerce, and Travel industries
+- 🧠 **AI Agent Specialist:** Expert in Multi-Agent Systems, ReAct patterns, and LLM orchestration
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
@@ -607,10 +609,10 @@ Comprehensive jewelry store management system:
 
 - 🧠 **Advanced AI Agents:** CrewAI, AutoGen, and agentic workflows
 - 🗣️ **Advanced NLP:** Fine-tuning LLMs, prompt engineering, and RAG optimization
+- 🤖 **LLM Orchestration:** Advanced LangGraph patterns and multi-agent coordination
 - 🔗 **Web3 & Blockchain:** Smart contract development with Solidity
-- ☁️ **Cloud Architecture:** AWS, GCP, and serverless computing
-- 📱 **Mobile Development:** React Native and cross-platform apps
-- 🎨 **Data Visualization:** Three.js, WebGL, and interactive graphics
+- ☁️ **Cloud Architecture:** AWS, GCP, and serverless computing for AI applications
+- � **MLOps:** Model deployment, monitoring, and optimization in production
 
 <br clear="both"/>
 
@@ -638,7 +640,7 @@ Comprehensive jewelry store management system:
 
 <br/><br/>
 
-**💼 Open to opportunities in Software Engineering, AI/ML, and Full-Stack Development**
+**💼 Open to opportunities in AI Engineering, Machine Learning, and AI Agent Development**
 
 <br/>
 
