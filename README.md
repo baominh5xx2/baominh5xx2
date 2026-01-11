@@ -11,9 +11,6 @@
   <a href="mailto:baominh5xx2@gmail.com">
     <img src="https://img.shields.io/badge/Email-baominh5xx2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 <p align="center">
@@ -61,221 +58,247 @@ I'm a **Software Engineering student** at the **University of Information Techno
 
 ## 💼 Featured Projects
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-### 🏦 **AI-Powered Financial Systems**
+### 🏦 AI-Powered Financial Systems
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
-#### 🎯 [Student Credit System with AI & Blockchain](https://github.com/baominh5xx2/Attacker-Bankend)
-**Tech Stack:** `Node.js` `Python` `FastAPI` `MongoDB` `OpenAI` `Blockchain` `Socket.IO`
+<details open>
+<summary><b>🎯 Student Credit System with AI & Blockchain</b></summary>
+<br/>
 
-An intelligent student credit system leveraging cutting-edge AI and blockchain:
-- 🤖 **Multi-Agent System (MAS)** with LlamaIndex for automated loan evaluation
-- ⛓️ **Truvera Blockchain** for verifiable credentials and digital identity
-- 💬 **RAG Chatbot** with 24/7 advisory using Pinecone vector search
-- ⚡ **Real-time notifications** via Socket.IO
+```yaml
+Tech Stack: Node.js | Python | FastAPI | MongoDB | OpenAI | LlamaIndex | Blockchain | Socket.IO
+```
 
-**Highlights:**
-- AI-powered automatic loan assessment with high accuracy
-- Blockchain ensures transparency and fraud prevention
-- Intelligent chatbot with semantic search capabilities
+An intelligent student credit system leveraging cutting-edge AI and blockchain technology:
 
-[🔗 Backend](https://github.com/baominh5xx2/Attacker-Bankend) | [🔗 Frontend](https://github.com/baominh5xx2/Attacker-FrontEnd)
+**🤖 AI Features:**
+- Multi-Agent System (MAS) with 4 specialized agents for loan evaluation
+- RAG Chatbot with Pinecone vector search for 24/7 advisory
+- Automated decision-making with high accuracy
 
-</td>
-<td width="50%">
+**⛓️ Blockchain Integration:**
+- Truvera Blockchain for verifiable credentials
+- Digital identity (DID) and certificate verification
+- Fraud prevention and transparency
 
-#### 📊 [Finance AI Agent Platform](https://github.com/baominh5xx2/Web-Finance-AI-Agent-Frontend)
-**Tech Stack:** `Next.js 14` `TypeScript` `D3.js` `TailwindCSS` `React PDF`
+**⚡ Real-time Features:**
+- Socket.IO for instant notifications
+- Live status updates
+- Real-time chat support
+
+</details>
+
+<details>
+<summary><b>📊 Finance AI Agent Platform</b></summary>
+<br/>
+
+```yaml
+Tech Stack: Next.js 14 | TypeScript | D3.js | TailwindCSS | React PDF
+```
 
 Advanced financial analytics platform for Vietnamese stock markets:
-- 📈 **Interactive TreeMap** visualization with D3.js
-- 🤖 **AI-powered insights** and smart trading recommendations
-- 📰 **Real-time market data** tracking (VN-Index, HNX, VN30)
-- 📄 **Automated PDF reports** generation
 
-**Highlights:**
+**📈 Key Features:**
+- Interactive TreeMap visualization with D3.js
+- Real-time market data tracking (VN-Index, HNX, VN30, HNX30)
+- AI-powered trading recommendations
+- Automated PDF report generation
+
+**🎯 Highlights:**
 - Multi-index support for Vietnamese markets
 - Highly interactive data visualization
 - AI-driven trend analysis and predictions
 
-[🔗 Frontend](https://github.com/baominh5xx2/Web-Finance-AI-Agent-Frontend) | [🔗 Backend](https://github.com/baominh5xx2/Web-Finance-AI-Agent-Backend)
+</details>
 
-</td>
-</tr>
-</table>
+<details>
+<summary><b>💬 Finance Report Chatbot</b></summary>
+<br/>
 
-<table>
-<tr>
-<td width="50%">
-
-#### 💬 [Finance Report Chatbot](https://github.com/baominh5xx2/Chatbot-generate-finance-report)
-**Tech Stack:** `Python` `Gemini AI` `Telegram Bot` `LaTeX` `vnstock`
+```yaml
+Tech Stack: Python | Gemini AI | Telegram Bot | LaTeX | vnstock
+```
 
 Telegram bot for automated financial report generation:
+
 - 📊 Vietnamese stock data analysis
-- 📈 Chart generation and visualization
-- 📄 PDF report generation with LaTeX
-- 🤖 AI-powered financial analysis with Gemini
+- 📈 Chart generation and visualization  
+- 📄 PDF reports with LaTeX
+- 🤖 AI-powered financial analysis
 
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### 🌍 **AI Tour Booking System**
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🌍 AI Tour Booking System
 
-#### ✈️ [AI Tour Booking Platform - Backend](https://github.com/baominh5xx2/SE347_IE104_Backend)
-**Tech Stack:** `FastAPI` `LangGraph` `Supabase` `Qdrant` `Redis` `Docker`
+</div>
 
-Advanced AI-powered tour booking system with intelligent agents:
-- 🤖 **LangGraph Agent** with ReAct pattern for reasoning
-- 🔍 **Semantic Search** using Qdrant vector database
-- 🔐 **OAuth 2.0** (Google) + JWT authentication
-- 💳 **VNPay** payment gateway integration
-- 📧 **OTP verification** via SendGrid
-- 🧠 **Mem0 Memory** for long-term AI memory
+<details>
+<summary><b>✈️ Backend - LangGraph AI Agent System</b></summary>
+<br/>
 
-**Architecture Highlights:**
+```yaml
+Tech Stack: FastAPI | LangGraph | Supabase | Qdrant | Redis | Mem0 | Docker
+```
+
+Advanced AI-powered tour booking platform with intelligent agents:
+
+**🤖 AI Agent Architecture:**
+- LangGraph state machines with ReAct pattern
 - Multi-Agent System with MCP Tools
-- Real-time notifications and updates
+- Semantic search using Qdrant vector database
+- Long-term memory with Mem0 and FalkorDB
+
+**🔐 Authentication & Security:**
+- OAuth 2.0 (Google) + JWT
+- OTP verification via SendGrid
+- Role-based access control
+
+**💳 Integrations:**
+- VNPay payment gateway
+- Real-time notifications
 - Microservices architecture
-- Graph database (FalkorDB) for Graphiti memory
 
-</td>
-<td width="50%">
+</details>
 
-#### 🎨 [AI Tour Booking Platform - Frontend](https://github.com/baominh5xx2/SE347_IE104_Frontend)
-**Tech Stack:** `Angular 19` `TypeScript` `PrimeNG` `TailwindCSS` `RxJS`
+<details>
+<summary><b>🎨 Frontend - Modern Angular SPA</b></summary>
+<br/>
 
-Modern SPA with advanced AI features:
-- 🤖 **AI Chatbot** with streaming responses (SSE)
-- 🔔 **Real-time notifications** system
-- 📱 **Responsive design** (Mobile-first approach)
-- 🎨 **PrimeNG** component library
-- 🔐 **Role-based access control** (RBAC)
-- 💳 **VNPay** payment flow integration
+```yaml
+Tech Stack: Angular 19 | TypeScript | PrimeNG | TailwindCSS | RxJS
+```
 
-**Features:**
-- Smart tour recommendations powered by AI
-- Natural language search capabilities
+Modern single-page application with advanced features:
+
+**🤖 AI Features:**
+- AI Chatbot with streaming responses (SSE)
+- Smart tour recommendations
+- Natural language search
+
+**📱 User Experience:**
+- Responsive design (Mobile-first)
+- Real-time notifications
+- Progressive Web App ready
 - Admin dashboard with analytics
-- Progressive Web App (PWA) ready
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### 🛍️ **E-Commerce & Management Systems**
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🤖 AI/ML & NLP Projects
 
-#### 💎 [Jewelry Store Management System](https://github.com/baominh5xx2/SE104_Front-end)
-**Tech Stack:** `Node.js` `Express` `MySQL` `JavaScript` `HTML/CSS`
+</div>
+
+<details>
+<summary><b>💬 Vietnamese Sentiment Analysis</b></summary>
+<br/>
+
+```yaml
+Tech Stack: Python | PhoBERT | SVM | Logistic Regression | cuML
+```
+
+High-accuracy sentiment classification for Vietnamese product reviews:
+
+**🎯 Results:**
+- **98.35% accuracy** with RBF SVM
+- Linear SVM: 98.05%
+- Polynomial SVM: 98.30%
+- Logistic Regression: 98.15%
+
+**⚡ Technical Highlights:**
+- PhoBERT embeddings for Vietnamese language
+- GPU-accelerated training with cuML
+- Comprehensive model comparison
+
+</details>
+
+<details>
+<summary><b>🎭 Multimodal Satire Recognition (Spanish)</b></summary>
+<br/>
+
+```yaml
+Tech Stack: Python | Deep Learning | NLP | Speech Processing
+```
+
+Multimodal satire detection combining text and speech:
+
+- 🗣️ Text + Speech processing
+- 🧠 Deep learning models
+- 📊 Multimodal fusion techniques
+- 📄 Academic research project
+
+</details>
+
+<details>
+<summary><b>📹 Video Summarization Web App</b></summary>
+<br/>
+
+```yaml
+Tech Stack: Python | NLP | Web Development
+```
+
+Automated video summarization application:
+
+- 🎥 Video content extraction
+- 📝 AI-powered summarization
+- 🌐 User-friendly interface
+- ⚡ Real-time processing
+
+</details>
+
+<details>
+<summary><b>✍️ TOEIC Writing Chatbot</b></summary>
+<br/>
+
+```yaml
+Tech Stack: React | Node.js | AI/NLP
+```
+
+Interactive chatbot for TOEIC Writing practice:
+
+- ✍️ Automated essay feedback
+- 📚 Improvement suggestions
+- 🎯 TOEIC standard evaluation
+- 💬 Interactive learning
+
+</details>
+
+---
+
+<div align="center">
+
+### 🛍️ E-Commerce & Management Systems
+
+</div>
+
+<details>
+<summary><b>💎 Jewelry Store Management System</b></summary>
+<br/>
+
+```yaml
+Tech Stack: Node.js | Express | MySQL | JavaScript | HTML/CSS
+Architecture: 3-tier (Client - Web Server - Database)
+```
 
 Comprehensive jewelry store management system:
+
 - 🧾 Sales, purchase, and service management
 - 📦 Inventory tracking and stock control
 - 👥 Customer relationship management
 - 📊 Business reports and analytics
-- 🔐 User role-based permissions
-- 📁 Excel import/export functionality
+- 🔐 Role-based permissions
+- 📁 Excel import/export
 
-**Architecture:** 3-tier (Client - Web Server - Database)
-
-[🔗 Frontend](https://github.com/baominh5xx2/SE104_Front-end) | [🔗 Full Project](https://github.com/baominh5xx2/SE104.P12---Final-Project)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
----
-
-### 🤖 **AI/ML & NLP Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎭 [Multimodal Satire Recognition](https://github.com/baominh5xx2/Multimodal-Speech-text-Satire-Recognition-in-Spanish)
-**Tech Stack:** `Python` `Deep Learning` `NLP` `Speech Processing`
-
-Multimodal satire detection in Spanish language:
-- 🗣️ Processing both **text** and **speech** modalities
-- 🧠 Deep learning models for classification
-- 📊 Multimodal fusion techniques
-- 📄 Research paper & presentation included
-
-**Academic Project** - Advanced NLP & Speech Processing
-
-</td>
-<td width="50%">
-
-#### 💬 [Vietnamese Sentiment Analysis](https://github.com/baominh5xx2/Positive-and-negative-classification-of-customer-product-comments)
-**Tech Stack:** `Python` `PhoBERT` `SVM` `Logistic Regression` `cuML`
-
-Vietnamese product review sentiment classification:
-- 🇻🇳 **PhoBERT embeddings** for Vietnamese language
-- 🎯 **98.35% accuracy** achieved with RBF SVM
-- ⚡ GPU-accelerated training with **cuML**
-- 📊 Comprehensive model comparison (SVM kernels, Logistic Regression)
-
-**Results:**
-- Linear SVM: 98.05%
-- Polynomial SVM: 98.30%
-- RBF SVM: 98.35% ⭐
-- Logistic Regression: 98.15%
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📹 [Video Summarization Web App](https://github.com/baominh5xx2/web_summarization_video)
-**Tech Stack:** `Python` `NLP` `Web Development`
-
-Automated video summarization web application:
-- 🎥 Video content extraction and processing
-- 📝 AI-powered text summarization
-- 🌐 User-friendly web interface
-- ⚡ Real-time processing capabilities
-
-</td>
-<td width="50%">
-
-#### ✍️ [TOEIC Writing Chatbot](https://github.com/baominh5xx2/Chatbot_toeic_writing_frontend)
-**Tech Stack:** `React` `Node.js` `AI/NLP`
-
-TOEIC Writing practice chatbot:
-- ✍️ Automated feedback for essays
-- 📚 Improvement suggestions and tips
-- 🎯 TOEIC standard-based evaluation
-- 💬 Interactive learning experience
-
-</td>
-</tr>
-</table>
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
@@ -601,8 +624,6 @@ TOEIC Writing practice chatbot:
 
 [![Email](https://img.shields.io/badge/Email-baominh5xx2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baominh5xx2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-baominh5xx2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baominh5xx2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 <br/>
 
@@ -611,17 +632,8 @@ TOEIC Writing practice chatbot:
 <a href="mailto:baominh5xx2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/baominh5xx2">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://discord.gg/your-discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
