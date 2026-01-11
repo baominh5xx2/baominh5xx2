@@ -2,17 +2,31 @@
 
 # 👋 Hi there, I'm Nguyễn Minh Bảo (Bao Nguyen)
 
-[![GitHub followers](https://img.shields.io/github/followers/baominh5xx2?style=social)](https://github.com/baominh5xx2)
-[![Email](https://img.shields.io/badge/Email-baominh5xx2%40gmail.com-red?style=flat&logo=gmail)](mailto:baominh5xx2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;NLP+Specialist+%F0%9F%97%A3%EF%B8%8F;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-**🎓 Software Engineering Student | 🤖 AI/ML Engineer | 💻 Full-Stack Developer | 🗣️ NLP Specialist**
+<p align="center">
+  <a href="https://github.com/baominh5xx2">
+    <img src="https://img.shields.io/badge/GitHub-baominh5xx2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:baominh5xx2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-baominh5xx2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-*Building intelligent systems that bridge the gap between humans and technology*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baominh5xx2&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/baominh5xx2?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/baominh5xx2?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 🚀 About Me
 
@@ -43,9 +57,11 @@ I'm a **Software Engineering student** at the **University of Information Techno
 
 🎯 **Current Focus:** Exploring advanced AI agent architectures, building production-grade LLM applications, and contributing to the intersection of AI and Web3 technologies.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 💼 Featured Projects
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🏦 **AI-Powered Financial Systems**
 
@@ -261,81 +277,252 @@ TOEIC Writing practice chatbot:
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
-## 🛠️ Technical Skills
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **AI/ML & Data Science**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Specialized AI/ML:**
-- 🤖 **AI Agents:** LangGraph, LangChain, LlamaIndex, Mem0
-- 🔍 **Vector DBs:** Pinecone, Qdrant, pgvector
-- 🗣️ **NLP:** PhoBERT, BERT, Transformers, spaCy
-- 🧠 **LLMs:** GPT-4, Gemini AI, Claude
-- 📊 **ML Tools:** cuML (GPU-accelerated), scikit-learn
-- 🎯 **RAG:** Retrieval-Augmented Generation pipelines
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Blockchain & Web3**
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Technical Skills & Expertise
 
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baominh5xx2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baominh5xx2&layout=compact&langs_count=8&theme=tokyonight"/>
+<br/>
 
+<table>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+🤖 AI Agentic & LLM:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/>
+<br/>
+<strong>Frameworks:</strong> LangGraph, LangChain, LlamaIndex, Mem0<br/>
+<strong>Expertise:</strong> Multi-Agent Systems (MAS), ReAct Pattern, Agent Orchestration, MCP Tools, RAG Pipelines<br/>
+<strong>LLMs:</strong> GPT-4, Gemini AI, Claude, Perplexity AI | <strong>Prompt Engineering</strong> | <strong>Streaming (SSE)</strong>
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+🗣️ NLP & ML:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
+<br/>
+<strong>Vietnamese NLP:</strong> PhoBERT (98.35% accuracy), Sentiment Analysis, Text Classification<br/>
+<strong>Multimodal:</strong> Text + Speech Processing | <strong>Libraries:</strong> Transformers, spaCy, NLTK<br/>
+<strong>ML:</strong> SVM, Logistic Regression, LSTM, Neural Networks | <strong>GPU:</strong> cuML Training
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+💾 Vector & Databases:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,supabase"/>
+<br/>
+<strong>Vector DBs:</strong> Pinecone, Qdrant, pgvector | <strong>Embeddings:</strong> OpenAI, Sentence Transformers<br/>
+<strong>SQL:</strong> PostgreSQL, MySQL, Supabase | <strong>NoSQL:</strong> MongoDB Atlas<br/>
+<strong>Graph DB:</strong> FalkorDB | <strong>Cache:</strong> Redis
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+🌐 Backend:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask"/>
+<br/>
+<strong>Python:</strong> FastAPI, Flask, Pydantic | <strong>Node.js:</strong> Express.js, Socket.IO<br/>
+<strong>Real-time:</strong> WebSocket, SSE | <strong>Auth:</strong> JWT, OAuth 2.0, bcrypt<br/>
+<strong>Integrations:</strong> VNPay, SendGrid, Cloudinary | <strong>API:</strong> REST, GraphQL, gRPC
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+⚛️ Frontend:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,materialui,vite"/>
+<br/>
+<strong>Frameworks:</strong> React 19, Next.js 14, Angular 19 | <strong>Languages:</strong> TypeScript, JavaScript<br/>
+<strong>UI:</strong> TailwindCSS, Material-UI, PrimeNG, Radix UI | <strong>Viz:</strong> D3.js, Three.js<br/>
+<strong>State:</strong> Zustand, Redux, RxJS | <strong>Forms:</strong> React Hook Form, Zod
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+🐳 DevOps & Tools:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,npm"/>
+<br/>
+<strong>Containers:</strong> Docker, Docker Compose | <strong>Version Control:</strong> Git, GitHub<br/>
+<strong>Deploy:</strong> Render, Modal, Vercel | <strong>CI/CD:</strong> GitHub Actions<br/>
+<strong>Package Managers:</strong> uv, npm, pnpm | <strong>Migrations:</strong> Alembic
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+⛓️ Blockchain & Web3:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=solidity,ethereum"/>
+<br/>
+<strong>Platforms:</strong> Truvera Blockchain, Ethereum | <strong>Libraries:</strong> Ethers.js<br/>
+<strong>Concepts:</strong> Verifiable Credentials, DID, Smart Contracts, Cryptography
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+🧪 Testing & Quality:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=pytest,jest"/>
+<br/>
+<strong>Python:</strong> Pytest, unittest | <strong>JavaScript:</strong> Jest, Jasmine, Karma<br/>
+<strong>Code Quality:</strong> ESLint, Prettier, TypeScript strict mode
+</td>
+</tr>
+
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+📝 Other Tools:
+</td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=latex,markdown,figma"/>
+<br/>
+<strong>Documentation:</strong> LaTeX, Markdown, Swagger/OpenAPI<br/>
+<strong>Scheduling:</strong> APScheduler, Cron | <strong>Design:</strong> Responsive, Accessibility (ARIA)
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 **AI Agentic Systems - Deep Dive**
+
+<details>
+<summary><b>🔄 LangGraph & Multi-Agent Systems (Click to expand)</b></summary>
+
+<br/>
+
+**Agent Orchestration:**
+- ✅ Building complex state machines with LangGraph
+- ✅ Implementing ReAct pattern (Reason → Act → Observe)
+- ✅ Coordinating multiple specialized agents (MAS)
+- ✅ Agent memory with Mem0 and FalkorDB (Graphiti)
+- ✅ MCP Tools integration (FastMCP, mcp-ui-server)
+
+**Production Experience:**
+- 🏦 **Student Credit System:** 4-agent debate system for loan evaluation
+- ✈️ **Tour Booking Platform:** LangGraph agent with semantic search
+- 💬 **RAG Chatbots:** Context-aware assistants with vector search
+
+</details>
+
+<details>
+<summary><b>🔍 RAG (Retrieval-Augmented Generation)</b></summary>
+
+<br/>
+
+**Vector Search & Embeddings:**
+- ✅ Pinecone, Qdrant, pgvector for production RAG
+- ✅ Semantic search with OpenAI, Sentence Transformers
+- ✅ Hybrid search strategies (semantic + keyword)
+- ✅ Document chunking and indexing optimization
+- ✅ Context window management and retrieval relevance
+
+**Knowledge Base Management:**
+- 📚 Building and maintaining vector databases
+- 🎯 Query optimization for accurate retrieval
+- � Real-time knowledge base updates
+
+</details>
+
+<details>
+<summary><b>🧠 LLM Integration & Prompt Engineering</b></summary>
+
+<br/>
+
+**LLM Expertise:**
+- ✅ GPT-4, GPT-4-Turbo, Gemini AI, Claude, Perplexity AI
+- ✅ Streaming responses with Server-Sent Events (SSE)
+- ✅ Token optimization and cost management
+- ✅ Model selection for specific use cases
+
+**Prompt Engineering:**
+- � System prompts and role definition
+- 🎯 Few-shot learning and examples
+- � Chain-of-thought reasoning
+- � Output formatting and structured responses
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
+
+## 📊 GitHub Statistics & Activity
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+[![Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baominh5xx2&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baominh5xx2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baominh5xx2&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baominh5xx2&theme=tokyonight&hide_border=true" alt="baominh5xx2" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baominh5xx2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+</div>
+
+<details>
+<summary><b>📊 More GitHub Metrics</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baominh5xx2&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baominh5xx2&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=baominh5xx2&limit=5&theme=tokyonight&hide_border=true" alt="Top Contributed Repo" />
 </div>
 
----
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 🎯 Core Competencies
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -377,7 +564,7 @@ TOEIC Writing practice chatbot:
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 🏆 Key Achievements
 
@@ -389,9 +576,11 @@ TOEIC Writing practice chatbot:
 - 🚀 **Cutting-Edge Tech:** Proficient in latest technologies (Next.js 14, Angular 19, FastAPI, LangGraph)
 - 💡 **Real-World Impact:** Built systems serving actual business needs in FinTech, E-commerce, and Travel industries
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 💡 What I'm Currently Learning
+
+<img align="right" alt="Learning" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🧠 **Advanced AI Agents:** CrewAI, AutoGen, and agentic workflows
 - 🗣️ **Advanced NLP:** Fine-tuning LLMs, prompt engineering, and RAG optimization
@@ -400,26 +589,62 @@ TOEIC Writing practice chatbot:
 - 📱 **Mobile Development:** React Native and cross-platform apps
 - 🎨 **Data Visualization:** Three.js, WebGL, and interactive graphics
 
----
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 ## 📫 Let's Connect!
+
+<img align="right" alt="Connect" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-baominh5xx2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baominh5xx2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-baominh5xx2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baominh5xx2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+<br/>
+
+### 📧 Reach Out To Me
+
+<a href="mailto:baominh5xx2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/baominh5xx2">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://discord.gg/your-discord">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<br/><br/>
 
 **💼 Open to opportunities in Software Engineering, AI/ML, and Full-Stack Development**
 
+<br/>
+
+### 💬 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
+</div>
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b0f-b80c-8aa1f2c3e4e4.gif" width="100%">
 
 <div align="center">
 
 ### 🌟 "Building the future, one line of code at a time" 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=baominh5xx2&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
