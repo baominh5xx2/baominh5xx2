@@ -40,7 +40,7 @@ const aiEngineer = {
 };
 ```
 
-I'm a **Software Engineering student** at the **University of Information Technology (VNU-HCM)** with a strong passion for **Artificial Intelligence** and **Full-Stack Development**. My expertise spans across multiple domains:
+I'm a **Artificial Intelligence student** at the **University of Information Technology (VNU-HCM)** with a strong passion for **Artificial Intelligence** and **Full-Stack Development**. My expertise spans across multiple domains:
 
 🤖 **AI/ML Engineering:** Specialized in building **Multi-Agent Systems (MAS)**, **RAG applications**, and **NLP solutions**. I've developed production-ready AI agents using **LangGraph**, **LangChain**, and **LlamaIndex**, with hands-on experience in **vector databases** (Pinecone, Qdrant) and **semantic search**.
 
@@ -662,3 +662,4 @@ Comprehensive jewelry store management system:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
+
